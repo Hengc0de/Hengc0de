@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/db/fa/a2/dbfaa26f0bc7356db4218d793aba45af.gif)](https://bunheng-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm BunHeng</h1>
 <h3 align="center">A passionate software developer from Cambodia</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--jbblUf9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twxlvixc93j8vmm4zp53.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hengc0de&label=Profile%20views&color=0e75b6&style=flat" alt="hengc0de" /> </p>
 
 - 🔭 I’m currently working on **Backend Development**
