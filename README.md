@@ -1,14 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/db/fa/a2/dbfaa26f0bc7356db4218d793aba45af.gif)](https://bunheng-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm BunHeng</h1>
-<h3 align="center">A passionate software developer from Cambodia</h3>
+<h3 align="center">I am somewhat a software developer located in Cambodia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hengc0de&label=Profile%20views&color=0e75b6&style=flat" alt="hengc0de" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Backend API Development**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://bunheng-portfolio.netlify.app/](https://bunheng-portfolio.netlify.app/)
+- 👨‍💻 Check my portfolio out at [https://bunheng-portfolio.netlify.app/](https://bunheng-portfolio.netlify.app/)
 
 - 💬 Ask me about **react, laravel, mern**
 
