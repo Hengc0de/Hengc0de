@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **leng.bheng@gmail.com**
 
-- ⚡ Fun fact **I hate gecko, loves manga/manwha anime skating rock-music big-bikes and cars**
+- ⚡ Fun fact **I hate gecko, loves manga/manwha, anime, skating, rock-music, big-bikes, and cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
