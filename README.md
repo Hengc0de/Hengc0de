@@ -8,7 +8,7 @@
 
 - 👨‍💻 Check my portfolio out at [https://bunheng.vercel.app/](https://bunheng.vercel.app/)
 
-- 💬 Ask me about **anything**, (I'll answer only if it interested me)
+- 💬 Ask me about **anything**, (answer if interested)
 
 - 📫 How to reach me **leng.bheng@gmail.com**
 
