@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Full Stack Developer**
 
-- 👨‍💻 Check my portfolio out at [https://bunheng-portfolio.netlify.app/](https://bunheng-portfolio.netlify.app/)
+- 👨‍💻 Check my portfolio out at [https://bunheng.vercel.app/](https://bunheng.vercel.app/)
 
 - 💬 Ask me about **everything**
 
