@@ -116,10 +116,3 @@
   <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/ffffff" alt="AI for Security" width="40" height="40"/></a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hengc0de&show_icons=true&locale=en&layout=compact" alt="hengc0de" />
-</p>
-
-<p>
- ![](https://raw.githubusercontent.com/hengc0de/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-</p>
