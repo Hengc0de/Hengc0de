@@ -11,7 +11,6 @@
 
 - Currently working as a **Full Stack Developer**
 - Portfolio: **[https://lengbunheng.com](https://lengbunheng.com)**
-- Hero clip: **[https://lengbunheng.com/hero-opt.mp4](https://lengbunheng.com/hero-opt.mp4)**
 - Ask me about **React, Laravel, Node.js, API architecture, and production debugging**
 - Reach me at **leng.bheng@gmail.com**
 - Fun fact: **I hate gecko. I love manga/manhwa, anime, skating, rock music, big bikes, and cars.**
