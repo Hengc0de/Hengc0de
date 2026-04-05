@@ -1,27 +1,75 @@
-<h1 align="center">BunHeng Leng</h1> <h3 align="center">Full Stack Developer who ships fast, debugs calmly, and still ends up fighting DNS at 2AM.</h3> <p align="center"> <a href="https://lengbunheng.com"> <img src="https://img.shields.io/badge/Portfolio-lengbunheng.com-111111?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:leng.bheng@gmail.com"> <img src="https://img.shields.io/badge/Email-leng.bheng@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/bunheng-leng-58183a238"> <img src="https://img.shields.io/badge/LinkedIn-BunHeng%20Leng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <img src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif" width="220" alt="coding gif" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=hengc0de&label=Profile%20Views&color=1f6feb&style=flat" alt="profile views" /> </p>
+# BunHeng Leng
 
-About Me
-I build web products end-to-end, from UI to API to deployment.
+<p align="center">
+  <a href="https://lengbunheng.com">
+    <video src="https://lengbunheng.com/hero-opt.mp4" width="100%" muted autoplay loop playsinline></video>
+  </a>
+</p>
 
-I enjoy turning messy requirements into clean features, and I care about performance, maintainability, and shipping things that actually get used.
+<h3 align="center">Full Stack Developer | Security Enthusiast | Lifelong Learner</h3>
 
-Current mode:
+<p align="center">
+  <a href="https://lengbunheng.com"><img src="https://img.shields.io/badge/Portfolio-lengbunheng.com-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:leng.bheng@gmail.com"><img src="https://img.shields.io/badge/Email-leng.bheng@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/bunheng-leng-58183a238"><img src="https://img.shields.io/badge/LinkedIn-BunHeng%20Leng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-Full Stack Development
-Building and polishing my portfolio at https://lengbunheng.com
-Improving system design and deployment workflows
-Personal patch notes:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hengc0de&label=Profile%20views&color=0e75b6&style=flat" alt="hengc0de" />
+</p>
 
-Loves manga, manhwa, anime
-Into skating, rock music, big bikes, and cars
-Anti-gecko squad forever
-Tech I Actually Use
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,laravel,python,tailwind,scss,mysql,mongodb,docker,nginx,git,postman,figma" /> </p>
+## About Me
 
-Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/bunheng-leng-58183a238"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://fb.com/dustin.jscript"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://instagram.com/dustin.jscript"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+- Full Stack Developer with real-world delivery focus and calm execution under pressure.
+- I enjoy solving complex problems, improving reliability, and building secure systems that scale.
+- I stay sharp by learning AI workflows, security research, and better engineering practices.
+- Outside work: manga/manhwa, anime, gaming, biking, camping, sports, and rock music.
+- Bonus fact: geckos are still a hard no.
 
-GitHub Stats
-<p align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=hengc0de&show_icons=true&theme=transparent&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hengc0de&layout=compact&theme=transparent&hide_border=true" /> </p>
+## Snapshot
 
-<p align="center"> <i>Build. Break. Fix. Repeat.</i> </p>
+| Metric | Value |
+| --- | --- |
+| Years at DP Cloud | 2+ |
+| Core Projects | 6+ |
+| Platform Reliability | 99.9%+ |
+
+## Core Skills
+
+### Languages
+PHP, JavaScript, TypeScript, Python, SQL, Bash, HTML5, CSS3
+
+### Frameworks and Libraries
+React, Next.js, TanStack Query, Zustand, Redux, Laravel, Node.js, shadcn/ui, Vite, Tailwind CSS
+
+### Databases
+MySQL, MongoDB, Redis, query optimization, database design
+
+### Tools and Platforms
+Git, Docker, Nginx, OpenResty, Fluent Bit, RabbitMQ, Cloudflare, Postman, Swagger/OpenAPI, PM2, Linux
+
+### Security and Research
+Kali Linux lab work, Nuclei, ffuf, Metasploit, malware analysis labs, AI-assisted security workflows
+
+## Skills Icons
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css,react,nextjs,nodejs,laravel,tailwind,vite,mysql,mongodb,redis,git,docker,nginx,linux,postman" alt="skills" />
+</p>
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/bunheng-leng-58183a238
+- Facebook: https://fb.com/dustin.jscript
+- Instagram: https://instagram.com/dustin.jscript
+- Email: leng.bheng@gmail.com
+
+## GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hengc0de&show_icons=true&locale=en&layout=compact" alt="hengc0de" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hengc0de&show_icons=true&locale=en" alt="hengc0de stats" />
+</p>
